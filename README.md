@@ -1,0 +1,2 @@
+# yakamy.github.io
+index
